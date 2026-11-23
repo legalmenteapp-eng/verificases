@@ -1,8 +1,7 @@
 // ==========================================================
 // CONFIGURACIÓN DEL FRONTEND
-// Pegue aquí la URL de la aplicación web de Apps Script (termina en /exec).
-// Formato: https://script.google.com/macros/s/AKfy.../exec
+// URL de la aplicación web de Apps Script (termina en /exec).
 // ==========================================================
 window.CONFIG = {
-  BACKEND_URL: BACKEND_URL: "https://script.google.com/macros/s/AKfy.../exec"
+  BACKEND_URL: "https://script.google.com/macros/s/AKfycbyuqvjPfi5OgZwd-7ylXRA0ecjfGBbqeBEyLC5A1NDO6bN11nAoFJYflCgxa9mb04op/exec"
 };
