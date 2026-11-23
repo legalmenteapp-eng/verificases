@@ -4,5 +4,5 @@
 // Formato: https://script.google.com/macros/s/AKfy.../exec
 // ==========================================================
 window.CONFIG = {
-  BACKEND_URL: "PEGAR_AQUI_URL_EXEC"
+  BACKEND_URL: BACKEND_URL: "https://script.google.com/macros/s/AKfy.../exec"
 };
