@@ -59,11 +59,10 @@
   </div>
 </div>
 
+<script src="config.js"></script>
 <script>
-  // ==========================================================
-  // CONFIGURACIÓN: pegue aquí la URL de su aplicación web de Apps Script (termina en /exec)
-  // ==========================================================
-  const BACKEND_URL = "PEGAR_AQUI_URL_EXEC";
+  // La URL del backend se configura en docs/config.js
+  const BACKEND_URL = (window.CONFIG && window.CONFIG.BACKEND_URL || "").trim();
 
   const $ = id => document.getElementById(id);
 
